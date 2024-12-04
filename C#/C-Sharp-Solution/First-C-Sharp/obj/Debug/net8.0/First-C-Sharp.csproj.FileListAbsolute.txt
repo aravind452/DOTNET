@@ -1,0 +1,14 @@
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\bin\Debug\net8.0\First-C-Sharp.exe
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\bin\Debug\net8.0\First-C-Sharp.deps.json
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\bin\Debug\net8.0\First-C-Sharp.runtimeconfig.json
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\bin\Debug\net8.0\First-C-Sharp.dll
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\bin\Debug\net8.0\First-C-Sharp.pdb
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.AssemblyInfoInputs.cache
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.AssemblyInfo.cs
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.csproj.CoreCompileInputs.cache
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.dll
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\refint\First-C-Sharp.dll
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.pdb
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\First-C-Sharp.genruntimeconfig.cache
+D:\FULL STACK DOTNET\C#\C-Sharp-Solution\First-C-Sharp\obj\Debug\net8.0\ref\First-C-Sharp.dll
