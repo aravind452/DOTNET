@@ -1,0 +1,15 @@
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\bin\Debug\net8.0\Learning.exe
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\bin\Debug\net8.0\Learning.deps.json
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\bin\Debug\net8.0\Learning.runtimeconfig.json
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\bin\Debug\net8.0\Learning.dll
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\bin\Debug\net8.0\Learning.pdb
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.AssemblyInfoInputs.cache
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.AssemblyInfo.cs
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.csproj.CoreCompileInputs.cache
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.sourcelink.json
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.dll
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\refint\Learning.dll
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.pdb
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\Learning.genruntimeconfig.cache
+D:\FULL STACK DOTNET\C#\Learning-Solution\Learning\obj\Debug\net8.0\ref\Learning.dll
